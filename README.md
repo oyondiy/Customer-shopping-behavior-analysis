@@ -31,4 +31,7 @@ The analysis covers product categories, discounts, promotions, demographics, and
 - Replace discounts with bundling or loyalty programs  
 - Focus on middle‑aged/adult males and high‑spending young adult females  
 - Optimize inventory for Fall, promote more in Summer  
-- Expand into top performing states (Montana, Idaho)  
+- Expand into top performing states (Montana, Idaho)   
+
+
+
