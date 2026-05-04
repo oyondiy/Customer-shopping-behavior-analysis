@@ -1,4 +1,3 @@
-
 # Customer Shopping Behavior Analysis
 
 ## Overview
@@ -6,6 +5,8 @@ This project analyzes customer shopping behavior to help a retail company improv
 The analysis covers product categories, discounts, promotions, demographics, and seasonal trends.
 
 **Tools used:** Python (Jupyter Notebook), SQL (MySQL), Power BI
+
+![Customer Shopping Dashboard](./screenshots/customer.png)
 
 ---
 
@@ -31,5 +32,3 @@ The analysis covers product categories, discounts, promotions, demographics, and
 - Focus on middle‑aged/adult males and high‑spending young adult females  
 - Optimize inventory for Fall, promote more in Summer  
 - Expand into top performing states (Montana, Idaho)  
-
----
