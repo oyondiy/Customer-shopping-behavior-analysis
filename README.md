@@ -6,7 +6,7 @@ The analysis covers product categories, discounts, promotions, demographics, and
 
 **Tools used:** Python (Jupyter Notebook), SQL (MySQL), Power BI
 
-![Customer Shopping Dashboard](screenshots/customer.png)
+![Customer Shopping Dashboard](https://github.com/oyondiy/Customer-shopping-behavior-analysis/blob/main/screenshots/customer.PNG)
 
 ---
 
@@ -31,7 +31,11 @@ The analysis covers product categories, discounts, promotions, demographics, and
 - Replace discounts with bundling or loyalty programs  
 - Focus on middle‑aged/adult males and high‑spending young adult females  
 - Optimize inventory for Fall, promote more in Summer  
+<<<<<<< HEAD
 - Expand into top performing states (Montana, Idaho)   
 
 
 
+=======
+- Expand into top performing states (Montana, Idaho)  
+>>>>>>> 6d6990626da18375378951d0bee69cdeaa97ec5d
