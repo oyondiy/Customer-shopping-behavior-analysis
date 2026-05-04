@@ -6,7 +6,7 @@ The analysis covers product categories, discounts, promotions, demographics, and
 
 **Tools used:** Python (Jupyter Notebook), SQL (MySQL), Power BI
 
-![Customer Shopping Dashboard](screenshots/customer.png)
+![Customer Shopping Dashboard](https://github.com/oyondiy/Customer-shopping-behavior-analysis/blob/main/screenshots/customer.PNG)
 
 ---
 
